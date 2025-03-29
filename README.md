@@ -53,11 +53,11 @@ Os principais aprendizados no curso de **Git** e **GitHub** e também no curso d
 ---
 
 📦 Meu-Projeto-Git
-├── 📁 docs/          # Documentação e anotações do projeto
-├── 📁 projetos/      # Pequenos projetos e experimentos versionados
-│   ├── 📂 projeto1/  # Exemplo de projeto 1
-│   ├── 📂 projeto2/  # Exemplo de projeto 2
-│   └── 📂 projeto3/  # Exemplo de projeto 3
+├── 📁 Hello-World-/  # Documentação e anotações do projeto
+├── 📁 Site/          # Pequenos projetos e experimentos versionados
+│   ├── 📂 Index/     # Pequeno site
+│   ├── 📂 Index2/    # Tentativa de um segundo site
+│   └── 📂 Style/     # Estilo do site
 └── 📄 README.md      # Este arquivo que você está lendo! 😃
 
 ---
