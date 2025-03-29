@@ -5,7 +5,7 @@ Estou aprendendo os fundamentos essenciais do **Git** e **GitHub**.
 
 ---
 
-## 📚 **O que estou aprendendo?**  
+## 📚 **O que eu Aprendi**  
 Os principais aprendizados no curso de engenharia e também no curso de Engenharia de Software:
 
 ---
@@ -19,6 +19,7 @@ Os principais aprendizados no curso de engenharia e também no curso de Engenhar
 - Controle de versões com `git commit`, `git push` e `git pull`  
 - Gerenciando branches com `git branch`, `git checkout`, `git merge`  
 - Resolução de conflitos no Git
+- Trabalho Colaborativo no GitHub
 
 ### 🔹 **Estruturas de Programação**
 - Declaração de variáveis  
