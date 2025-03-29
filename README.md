@@ -6,7 +6,7 @@ Estou aprendendo os fundamentos essenciais do **Git** e **GitHub**.
 ---
 
 ## 📚 **O que eu Aprendi**  
-Os principais aprendizados no curso de engenharia e também no curso de Engenharia de Software:
+Os principais aprendizados no curso de **Git** e **GitHub** e também no curso de Engenharia de Software:
 
 ---
 
