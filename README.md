@@ -1,8 +1,8 @@
 # Hello World 
-Meu primeiro projeto de git github 
-Feito em um curso de extensaão na Universidade Santo Agostinho com o professor Anderson Soares
-Com o intuito de guardar e vesionar os codigos e projetos já feito por mim.
-Codigos desde declaração de variaveis, encadeamento de if, else if, else, chaveamento de for, usos de case com entrelaçamento de for, verificações de verdade ou falso 
+Meu primeiro projeto de Git e Github 
+Feito em um curso de extensão na Universidade Santo Agostinho com o professor Anderson Soares.
+Com o intuito de guardar e versionar os códigos e projetos já feitos por mim.
+Códigos desde declaração de variáveis, encadeamento de if, else if, else, chaveamento de for, usos de case com entrelaçamento de for, verificações de verdade ou falso.
 
 
 Carlos Gabriel Monteiro De Sousa
