@@ -52,6 +52,13 @@ Os principais aprendizados no curso de **Git** e **GitHub** e também no curso d
 
 ---
 
+### 📞 **Vamos Conversar!**  
+- **Carlos Gabriel Monteiro De Sousa**  
+- 📱 (86) 98816-6764  
+- 📸 [Instagram: N.T.C_Carlos](https://www.instagram.com/ntc_carlos)
+
+---
+
 ```bash
 📦 Meu-Projeto-Pascal
 ├── 📁 Hello-World-/   # Documentação e anotações sobre os projetos em Pascal
@@ -60,10 +67,3 @@ Os principais aprendizados no curso de **Git** e **GitHub** e também no curso d
 │   ├── 📂 Index2/     # Tentativa de um segundo site
 │   └── 📂 Style/      # Estilo do site 
 └── 📄 README.md       # O arquivo com as informações principais sobre o repositório!
-
----
-
-### 📞 **Vamos Conversar!**  
-- **Carlos Gabriel Monteiro De Sousa**  
-- 📱 (86) 98816-6764  
-- 📸 [Instagram: N.T.C_Carlos](https://www.instagram.com/ntc_carlos)
