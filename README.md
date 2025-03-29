@@ -52,13 +52,14 @@ Os principais aprendizados no curso de **Git** e **GitHub** e também no curso d
 
 ---
 
-📦 Meu-Projeto-Git
-├── 📁 Hello-World-/  # Documentação e anotações do projeto
-├── 📁 Site/          # Pequenos projetos e experimentos versionados
-│   ├── 📂 Index/     # Pequeno site
-│   ├── 📂 Index2/    # Tentativa de um segundo site
-│   └── 📂 Style/     # Estilo do site
-└── 📄 README.md      # Este arquivo que você está lendo! 😃
+```bash
+📦 Meu-Projeto-Pascal
+├── 📁 Hello-World-/   # Documentação e anotações sobre os projetos em Pascal
+├── 📁 Site/           # Pequenos projetos e experimentos versionados
+│   ├── 📂 Index/      # Pequeno site
+│   ├── 📂 Index2/     # Tentativa de um segundo site
+│   └── 📂 Style/      # Estilo do site 
+└── 📄 README.md       # O arquivo com as informações principais sobre o repositório!
 
 ---
 
