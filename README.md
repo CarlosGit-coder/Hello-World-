@@ -7,4 +7,4 @@ Códigos desde declaração de variáveis, encadeamento de if, else if, else, ch
 
 Carlos Gabriel Monteiro De Sousa
 (86) 98816-6764
-Instagram N.T.C_Carlos:call_me_hand:
+Instagram N.T.C_Carlos :call_me_hand:
