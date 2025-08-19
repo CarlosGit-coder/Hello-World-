@@ -1,6 +1,6 @@
 
 # 👋 Olá, eu sou o Carlos Gabriel!  
-🎓 **Aluno do 1º período de Engenharia de Software**  
+🎓 **Aluno do 2º período de Engenharia de Software**  
 Estou aprendendo os fundamentos essenciais do **Git** e **GitHub**.
 
 ---
